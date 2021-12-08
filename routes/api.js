@@ -9,10 +9,10 @@ var lolkill = db.get("lolkill");
 	console.log('')
 }
 
-var creator = ['its me rama'];
+var creator = ['its me bambang'];
 
 
-keyapi = 'R-Key'
+keyapi = 'GREENTHINK'
 
 var axios = require('axios');
 var qs = require('qs');
